@@ -1,0 +1,13 @@
+{
+    "PackageVersion":  "2026.09.21.1",
+    "BuildTimestampUtc":  "2026-09-20T23:44:42.1171838Z",
+    "RuntimeIdentifier":  "win-x64",
+    "PythonRuntime":  "C:\\HubThunderRuntime\\Python\\.venv313\\Scripts\\python.exe",
+    "PythonBase":  "C:\\HubThunderRuntime\\Python\\base\\python.exe",
+    "RuntimeRepair":  "Repair-HubThunderImageToSightRuntime.ps1",
+    "RuntimeDiagnostics":  "Get-HubThunderImageToSightRuntimeDiagnostics.ps1",
+    "DeploymentScript":  "Deploy-HubThunder.ps1",
+    "ComponentInstaller":  "Install-HubThunderComponents.ps1",
+    "DeploymentFlow":  "migrate existing SQL -\u003e app_offline.htm -\u003e copy -\u003e optional broken-venv repair -\u003e web.config -\u003e ACL -\u003e remove app_offline.htm -\u003e payment and sitemap diagnostics",
+    "BuildConfiguration":  "Release"
+}

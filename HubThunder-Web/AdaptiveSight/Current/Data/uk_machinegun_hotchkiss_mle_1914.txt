@@ -1,0 +1,10 @@
+WeaponPath:gameData/Weapons/groundModels_weapons/8mm_Hotchkiss_Mle1914_user_machinegun.blkx
+ZoomIn:37.5
+ZoomOut:38.5
+
+Name:i_ball/name/short
+Type:i_ball
+BulletMass:0.0127
+BallisticCaliber:0.0077
+Speed:790.0
+Cx:0.38

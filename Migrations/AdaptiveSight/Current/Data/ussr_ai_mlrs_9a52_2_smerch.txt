@@ -1,0 +1,12 @@
+WeaponPath:gameData/Weapons/groundModels_weapons/300mm_9k58_rocket_launcher.blkx
+ZoomIn:21.0
+ZoomOut:40.0
+
+Name:300mm_9m55f
+Type:rocket_tank
+BulletMass:296.0
+BallisticCaliber:0.227
+Speed:860.0
+Cx:0.38
+ExplosiveMass:23.0
+ExplosiveType:pbxn_109

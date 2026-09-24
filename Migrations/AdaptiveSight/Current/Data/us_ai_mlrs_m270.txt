@@ -1,0 +1,12 @@
+WeaponPath:gameData/Weapons/groundModels_weapons/227mm_m270_rocket_launcher.blkx
+ZoomIn:21.0
+ZoomOut:40.0
+
+Name:227mm_m26a2
+Type:rocket_tank
+BulletMass:296.0
+BallisticCaliber:0.227
+Speed:860.0
+Cx:0.38
+ExplosiveMass:23.0
+ExplosiveType:pbxn_109

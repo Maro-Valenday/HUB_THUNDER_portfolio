@@ -1,0 +1,10 @@
+WeaponPath:gameData/Weapons/groundModels_weapons/space_rocket_launcher.blkx
+ZoomIn:21.0
+ZoomOut:40.0
+
+Name:space_rocket
+Type:rocket_tank
+BulletMass:250.0
+BallisticCaliber:0.425
+Speed:260.0
+Cx:0.38

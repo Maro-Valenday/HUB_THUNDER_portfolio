@@ -1,0 +1,10 @@
+WeaponPath:gameData/Weapons/groundModels_weapons/7_92mm_mg08_user_machinegun.blkx
+ZoomIn:37.5
+ZoomOut:38.5
+
+Name:ap_t_ball/name/short
+Type:ap_t_ball
+BulletMass:0.01
+BallisticCaliber:0.00792
+Speed:905.0
+Cx:0.46028
