@@ -7,9 +7,9 @@
 Генератор прицелов:
 <img width="1486" height="954" alt="Скриншот-20260925-000728" src="https://github.com/user-attachments/assets/d07b92e5-9c81-41c8-916a-3f017e7371c8" />
 Редактор прицелов:
-<img width="1493" height="942" alt="Скриншот-20260925-000937" src="https://github.com/user-attachments/assets/e6453b6c-9ab6-4070-9076-779343f3168f" />
-Адаптивные прицелы:
 <img width="1495" height="947" alt="Скриншот-20260925-000856" src="https://github.com/user-attachments/assets/564dfcb9-595e-4102-9e79-f207e94a8f30" />
+Адаптивные прицелы:
+<img width="1493" height="942" alt="Скриншот-20260925-000937" src="https://github.com/user-attachments/assets/e6453b6c-9ab6-4070-9076-779343f3168f" />
 Конвертеры форматов json <-> blk:
 <img width="1489" height="928" alt="Скриншот-20260925-001059" src="https://github.com/user-attachments/assets/1e670067-69b9-4011-8559-0e3680cabfdf" />
 Также разные руководства:
